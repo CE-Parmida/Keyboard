@@ -35,3 +35,31 @@ button:hover{
     background-color: #001C30;
     cursor: pointer;
 }
+
+#lil{
+    width:25px;
+}
+
+#bs{
+    width:75px;
+}
+
+#tab{
+    width: 55px;
+}
+
+#bslash{
+    width: 45px;
+}
+
+#cs{
+    width: 68px;
+}
+
+#ent{
+    width: 75px;
+}
+
+#shift{
+    width: 98px;
+}
